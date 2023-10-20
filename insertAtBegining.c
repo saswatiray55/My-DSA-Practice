@@ -4,7 +4,7 @@ struct Node{
     int data;
     struct Node* next;
 };
-struct Node *head;   //global cariable
+struct Node *head;   //global variable
 
 void Insert(int x)
 {
